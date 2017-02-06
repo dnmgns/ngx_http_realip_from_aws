@@ -1,0 +1,10 @@
+[Unit]
+Description=Keeps NGINX trusted proxies in sync with latest Amazon IP ranges
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/ngx_http_realip_from_aws/
+ExecStart=/usr/bin/python3 ngx_http_realip_from_aws.py 2>&1; disown
+
+[Install]
+WantedBy=default.target

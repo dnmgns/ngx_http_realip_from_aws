@@ -1,0 +1,20 @@
+# Check for updates every X minutes
+update_interval: 10
+
+# Logging
+log_dir: './'
+log_name: 'ngx_http_realip_from_aws.log'
+log_level: 'INFO'
+
+# Nginx
+nginx_conf_cache_name: 'ngx_http_realip_from_aws.cache'
+nginx_conf_path: '/etc/nginx/'
+nginx_conf_name: 'real_ip_from_cf.conf'
+
+# Get ipranges from AWS ip-ranges json
+ip_ranges_json: 'https://ip-ranges.amazonaws.com/ip-ranges.json'
+# Expected minimum ranges returned from file or url
+min_expected_ranges: 33
+
+# Get CLOUDFRONT service
+service: 'CLOUDFRONT'

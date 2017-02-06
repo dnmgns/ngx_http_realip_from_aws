@@ -1,0 +1,240 @@
+2017-02-05 23:34:15,161 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-05 23:34:15,161 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-05 23:34:15,220 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-05 23:34:15,220 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-05 23:35:36,943 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-05 23:35:36,943 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-05 23:35:37,000 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-05 23:35:37,001 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to /etc/nginx/real_ip_from_cf.conf
+2017-02-05 23:45:37,021 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-05 23:45:37,021 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-05 23:45:37,065 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-05 23:45:37,065 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-05 23:50:44,340 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-05 23:50:44,340 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-05 23:50:44,386 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-05 23:50:44,387 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:00:44,445 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:00:44,445 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:00:44,488 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:00:44,488 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:06:37,729 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:06:37,729 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:06:37,894 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:06:37,894 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:06:45,094 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:06:45,094 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:06:45,140 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:06:45,140 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:10:47,602 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:10:47,602 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:10:47,701 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:10:47,701 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:12:22,742 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:12:22,743 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:12:22,801 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:12:22,801 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:22:22,848 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:22:22,848 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:22:22,910 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:22:22,911 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:32:23,008 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:32:23,009 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:32:23,049 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:32:23,050 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:42:23,127 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:42:23,127 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:42:28,164 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:42:28,164 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 00:52:28,263 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 00:52:28,263 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 00:52:28,307 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 00:52:28,307 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 01:02:28,408 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 01:02:28,408 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 01:02:28,467 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 01:02:28,467 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 01:12:28,512 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 01:12:28,512 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 01:12:28,557 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 01:12:28,557 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 01:22:28,611 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 01:22:28,612 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 01:22:28,689 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 01:22:28,689 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 01:32:28,764 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 01:32:28,764 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 01:32:28,808 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 01:32:28,808 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 01:42:28,850 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 01:42:28,850 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 01:42:28,942 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 01:42:28,942 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 01:52:28,961 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 01:52:28,961 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 01:52:29,006 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 01:52:29,006 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 02:02:29,105 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 02:02:29,105 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 02:02:29,178 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 02:02:29,178 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 02:12:29,264 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 02:12:29,264 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 02:12:29,308 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 02:12:29,308 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 02:22:29,400 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 02:22:29,400 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 02:22:29,477 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 02:22:29,478 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 02:32:29,511 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 02:32:29,511 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 02:32:29,555 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 02:32:29,556 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 02:42:29,561 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 02:42:29,561 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 02:42:29,636 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 02:42:29,636 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 02:52:29,714 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 02:52:29,714 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 02:52:29,757 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 02:52:29,757 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 03:02:29,761 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 03:02:29,762 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 03:02:29,834 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 03:02:29,835 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 03:12:29,914 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 03:12:29,914 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 03:12:29,956 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 03:12:29,956 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 03:22:30,042 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 03:22:30,042 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 03:22:30,115 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 03:22:30,115 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 03:32:30,211 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 03:32:30,212 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 03:32:30,254 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 03:32:30,254 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 03:42:30,311 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 03:42:30,311 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 03:42:30,402 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 03:42:30,402 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 03:52:30,411 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 03:52:30,411 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 03:52:30,456 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 03:52:30,456 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 04:02:30,463 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 04:02:30,463 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 04:02:30,536 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 04:02:30,536 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 04:12:30,611 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 04:12:30,611 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 04:12:30,656 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 04:12:30,656 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 04:22:30,711 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 04:22:30,711 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 04:22:30,768 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 04:22:30,768 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 04:32:30,831 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 04:32:30,832 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 04:32:30,872 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 04:32:30,872 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 04:42:30,931 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 04:42:30,931 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 04:42:31,001 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 04:42:31,001 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 04:52:31,032 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 04:52:31,032 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 04:52:31,077 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 04:52:31,077 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 05:02:31,131 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 05:02:31,131 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 05:02:31,209 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 05:02:31,210 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 05:12:31,267 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 05:12:31,268 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 05:12:31,311 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 05:12:31,311 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 05:22:31,332 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 05:22:31,332 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 05:22:31,386 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 05:22:31,386 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 05:32:31,470 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 05:32:31,470 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 05:32:31,515 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 05:32:31,515 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 05:42:31,542 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 05:42:31,542 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 05:42:31,597 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 05:42:31,597 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 05:52:31,632 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 05:52:31,632 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 05:52:31,674 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 05:52:31,675 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 06:02:31,767 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 06:02:31,767 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 06:02:31,838 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 06:02:31,838 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 06:12:31,876 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 06:12:31,876 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 06:12:31,920 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 06:12:31,921 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 06:22:32,011 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 06:22:32,011 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 06:22:32,083 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 06:22:32,084 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 06:32:32,131 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 06:32:32,131 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 06:32:32,174 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 06:32:32,174 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 06:42:32,268 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 06:42:32,268 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 06:42:32,346 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 06:42:32,346 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 06:52:32,381 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 06:52:32,381 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 06:52:32,421 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 06:52:32,422 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 07:02:32,431 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 07:02:32,431 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 07:02:32,503 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 07:02:32,503 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 07:12:32,531 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 07:12:32,531 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 07:12:32,575 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 07:12:32,575 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 07:22:32,647 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 07:22:32,647 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 07:22:32,720 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 07:22:32,720 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 07:32:32,781 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 07:32:32,781 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 07:32:32,824 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 07:32:32,825 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 07:42:32,891 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 07:42:32,891 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 07:42:32,966 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 07:42:32,966 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 07:52:33,056 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 07:52:33,056 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 07:52:33,096 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 07:52:33,097 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 08:02:33,180 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 08:02:33,180 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 08:02:33,253 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 08:02:33,253 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 08:12:33,282 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 08:12:33,282 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 08:12:33,329 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 08:12:33,329 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 08:22:33,355 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 08:22:33,355 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 08:22:33,427 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 08:22:33,428 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 08:32:33,451 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 08:32:33,451 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 08:32:33,496 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 08:32:33,496 - ngx_http_realip_from_aws.log - INFO - No changes to apply
+2017-02-06 08:42:33,572 - ngx_http_realip_from_aws.log - INFO - Script started - Checking for changes every 10 minutes
+2017-02-06 08:42:33,572 - ngx_http_realip_from_aws.log - INFO - Fetching ip range from Amazon
+2017-02-06 08:42:33,649 - ngx_http_realip_from_aws.log - INFO - Wrote 33 ip ranges to ngx_http_realip_from_aws.cache
+2017-02-06 08:42:33,650 - ngx_http_realip_from_aws.log - INFO - No changes to apply
